@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0079-word-search](https://github.com/ghost9933/DSA/tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/ghost9933/DSA/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ghost9933/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Dynamic Programming
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/ghost9933/DSA/tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/ghost9933/DSA/tree/master/0494-target-sum) |
 ## Hash Table
 |  |
@@ -32,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/ghost9933/DSA/tree/master/0560-subarray-sum-equals-k) |
+## String
+|  |
+| ------- |
+| [0079-word-search](https://github.com/ghost9933/DSA/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/ghost9933/DSA/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
