@@ -2,7 +2,7 @@ class Solution:
     def isRobotBounded(self, instructions: str) -> bool:
         d=None
         current=[[0,0],0]
-        visited=set()
+        # visited=set()
         for inst in instructions:
             if inst=='G':
                 if current[1]==90:
