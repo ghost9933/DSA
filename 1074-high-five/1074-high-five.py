@@ -7,7 +7,7 @@ class Solution:
                 heappush(students[item[0]], item[1])
                 if len(students[item[0]])>5:
                     x=heappop(students[item[0]])
-                    print('added',item[1],'removed',x)
+                    # print('added',item[1],'removed',x)
             else:
                 students[item[0]]=[item[1]]
         # # 
@@ -30,8 +30,8 @@ class Solution:
                 return sum//c
             return 0
         for student in students:
-            print('curr student',student)
-            print(students[student])
+            # print('curr student',student)
+            # print(students[student])
             x=sum(students[student])//len(students[student])
             # x=topKavg(students[student],5)
             ans.append([student,x])
