@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/ghost9933/DSA/tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/ghost9933/DSA/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ghost9933/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [1074-high-five](https://github.com/ghost9933/DSA/tree/master/1074-high-five) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/ghost9933/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [1074-high-five](https://github.com/ghost9933/DSA/tree/master/1074-high-five) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -59,4 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0647-palindromic-substrings](https://github.com/ghost9933/DSA/tree/master/0647-palindromic-substrings) |
+## Sorting
+|  |
+| ------- |
+| [1074-high-five](https://github.com/ghost9933/DSA/tree/master/1074-high-five) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1074-high-five](https://github.com/ghost9933/DSA/tree/master/1074-high-five) |
 <!---LeetCode Topics End-->
