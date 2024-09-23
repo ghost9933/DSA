@@ -2,10 +2,14 @@ class Solution:
     def highFive(self, items: List[List[int]]) -> List[List[int]]:
         students={}
         for item in items:
+            
             if item[0] in students:
-                students[item[0]].append(-item[1])
+                heappush(students[item[0]], item[1])
+                if len(students[item[0]])>5:
+                    x=heappop(students[item[0]])
+                    print('added',item[1],'removed',x)
             else:
-                students[item[0]]=[-item[1]]
+                students[item[0]]=[item[1]]
         # # 
         # for x in students:
         #     # print(x,students[x])
@@ -26,8 +30,10 @@ class Solution:
                 return sum//c
             return 0
         for student in students:
-            # print('curr student',student)
-            x=topKavg(students[student],5)
+            print('curr student',student)
+            print(students[student])
+            x=sum(students[student])//len(students[student])
+            # x=topKavg(students[student],5)
             ans.append([student,x])
         return sorted(ans,key=lambda x:x[0])
             
