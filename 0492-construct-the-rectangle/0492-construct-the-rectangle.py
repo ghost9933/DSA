@@ -8,7 +8,7 @@ class Solution:
             if area%l!=0:
                 continue
             w=area/l
-            print(l,w)
+            # print(l,w)
             if l<w:
                 break
             if l-w<mindiff:
