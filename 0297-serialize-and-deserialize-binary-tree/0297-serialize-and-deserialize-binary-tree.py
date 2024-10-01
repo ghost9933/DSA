@@ -28,12 +28,12 @@ class Codec:
                     new.append(x.left)
                     new.append(x.right)
             q=new
-        print(serialized)
+
         end=len(serialized)-1
         while serialized[end]==None:
             serialized.pop()
             end-=1
-        print(serialized)
+
         if serialized:
             return ','.join([str(x) for x in serialized])
         else :
@@ -57,20 +57,14 @@ class Codec:
                 data[i]='null'
             else:
                 data[i]=int(data[i])
-            
-        print('de',data)
-        end=len(data)
-        
+
         if not data:
             return root
         q=[(0,0,root)]
-        print(data)
-        c=0
         while q and data:
             new=[]
             for ndata in q:
                 d,p,x=ndata[0],ndata[1],ndata[2]
-                print(c)
                 if not data:
                     break
                 if x==None:
@@ -80,30 +74,13 @@ class Codec:
                     else:
                         p.right=x
                 x.val=data.pop(0)
-                c+=1
                 new.append((1,x,x.left))
                 new.append((0,x,x.right))
             if data:
                 q=new
             else:
                 q=[]
-        print('rem')
-        # for x in q:
-        #     x=None
-        # def dfs(p,d,root):
-        #     if root.val==0 and root.left==None and root.right==None:
-        #         if d==1:
-        #             p.left=None
-        #         else:
-        #             p.right=None
-        #     else:
-        #         if root.left:
-        #             dfs(root,1,root.left)
-        #         if root.right:
-        #             dfs(root,0,root.right)
-        # dfs(root,1,root.left)
-        # dfs(root,0,root.right)
-        print(root)
+
         return root
 
 # Your Codec object will be instantiated and called as such:
