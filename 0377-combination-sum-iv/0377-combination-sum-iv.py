@@ -5,20 +5,20 @@ class Solution:
         map={}
         res=0
         end=len(nums)
-        lru_cache(maxsize = None)
+        @lru_cache(maxsize = None)
         def backtrack(r):
             # print(map)
             if r==0:
                 return 1
-            if r in map:
-                return map[r]
+            # if r in map:
+            #     return map[r]
             c=0
             for x in nums:
                 if r-x>=0:
                     c+=backtrack(r-x)
-            map[r]=c
+            # map[r]=c
             return c
         return backtrack(target)
-        return res
+
             
             
