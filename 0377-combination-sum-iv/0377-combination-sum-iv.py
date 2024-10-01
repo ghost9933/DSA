@@ -5,7 +5,7 @@ class Solution:
         map={}
         res=0
         end=len(nums)
-        # lru_cache(maxsize = None)
+        lru_cache(maxsize = None)
         def backtrack(r):
             # print(map)
             if r==0:
