@@ -6,7 +6,8 @@ class Solution:
         def dfsSearch(rem,curr,visited):
             nv=[]
             if rem[0] ==board[curr[0]][curr[1]]:
-                nv=nv+visited+[(curr)]
+                nv=set(visited)
+                nv.add(curr)
             else:
                 return
             rem=rem[1:]
@@ -18,14 +19,14 @@ class Solution:
                 dx=x+curr[0]
                 dy=y+curr[1]
                 if (dx,dy) not in nv and 0<=dx<xLimit and 0<=dy<yLimit:
-                    ans=ans or dfsSearch(rem,(dx,dy),nv[:])
+                    ans=ans or dfsSearch(rem,(dx,dy),nv)
             return ans 
 
         for i in range(xLimit):
             for j in range(yLimit):
 
                 if board[i][j] ==word[0]:
-                    ispresent=dfsSearch(word,(i,j),[])
+                    ispresent=dfsSearch(word,(i,j),set())
                     if ispresent:
                         return True
         return False
