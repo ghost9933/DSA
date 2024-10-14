@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/ghost9933/DSA/tree/master/0018-4sum) |
 | [0079-word-search](https://github.com/ghost9933/DSA/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/ghost9933/DSA/tree/master/0139-word-break) |
 | [0271-encode-and-decode-strings](https://github.com/ghost9933/DSA/tree/master/0271-encode-and-decode-strings) |
@@ -92,11 +93,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/ghost9933/DSA/tree/master/0018-4sum) |
 | [0647-palindromic-substrings](https://github.com/ghost9933/DSA/tree/master/0647-palindromic-substrings) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ghost9933/DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/ghost9933/DSA/tree/master/0018-4sum) |
 | [1074-high-five](https://github.com/ghost9933/DSA/tree/master/1074-high-five) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ghost9933/DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/ghost9933/DSA/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
