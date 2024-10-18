@@ -1,32 +1,35 @@
 class Solution:
     def checkInclusion(self, s1: str, s2: str) -> bool:
-        if len(s1) > len(s2):
-            return False
-        
-        # Create a frequency map for s1
-        map1 = {}
-        for char in s1:
-            map1[char] = map1.get(char, 0) + 1
-        
-        # Initialize a frequency map for the current window in s2
-        map2 = {}
-        window_size = len(s1)
-        
-        for i in range(len(s2)):
-            # Add the current character to the window
-            char = s2[i]
-            map2[char] = map2.get(char, 0) + 1
-            
-            # Remove the leftmost character if we've hit the window size
-            if i >= window_size:
-                left_char = s2[i - window_size]
-                if map2[left_char] == 1:
-                    del map2[left_char]
+        def strToDict(s:str):
+            Smap={}
+            for x in s:
+                if x in Smap:
+                    Smap[x]+=1
                 else:
-                    map2[left_char] -= 1
-            
-            # Check if the two maps are equal
-            if map1 == map2:
+                    Smap[x]=1
+            return Smap
+        window=len(s1)
+        sub=strToDict(s1)
+        print('sub',sub)
+        curr=''
+        currMap={}
+        for i in range (len(s2)):
+            enter=s2[i]
+            exiting=None
+            if len(curr)>=window:
+                exiting=curr[0]
+                curr=curr[1:]
+
+            curr+=s2[i]
+            if s2[i] in currMap:
+                currMap[s2[i]]+=1
+            else:
+                currMap[s2[i]]=1
+            if exiting:
+                currMap[exiting]-=1
+                if currMap[exiting]==0:
+                    del currMap[exiting]
+            if currMap==sub:
                 return True
-        
         return False
+            
