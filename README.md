@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/ghost9933/DSA/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/ghost9933/DSA/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/ghost9933/DSA/tree/master/0139-word-break) |
+| [0161-one-edit-distance](https://github.com/ghost9933/DSA/tree/master/0161-one-edit-distance) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ghost9933/DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0242-valid-anagram](https://github.com/ghost9933/DSA/tree/master/0242-valid-anagram) |
 | [0266-palindrome-permutation](https://github.com/ghost9933/DSA/tree/master/0266-palindrome-permutation) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/ghost9933/DSA/tree/master/0018-4sum) |
+| [0161-one-edit-distance](https://github.com/ghost9933/DSA/tree/master/0161-one-edit-distance) |
 | [0567-permutation-in-string](https://github.com/ghost9933/DSA/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/ghost9933/DSA/tree/master/0647-palindromic-substrings) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/ghost9933/DSA/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
