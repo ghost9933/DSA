@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/ghost9933/DSA/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/ghost9933/DSA/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/ghost9933/DSA/tree/master/0139-word-break) |
 | [0377-combination-sum-iv](https://github.com/ghost9933/DSA/tree/master/0377-combination-sum-iv) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/ghost9933/DSA/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/ghost9933/DSA/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/ghost9933/DSA/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/ghost9933/DSA/tree/master/0091-decode-ways) |
