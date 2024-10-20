@@ -50,7 +50,7 @@ class Solution:
                 chars[:]=chars[:i+1]+chars[j:]
             # print('after ins no',chars,i,j)
             i+=1
-        chars[:] = chars[:i]
+
         return i
 
   
