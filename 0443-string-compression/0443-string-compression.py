@@ -27,7 +27,7 @@ class Solution:
         # chars[:]=list(ans)
         # return len(ans)
 
-        # my code 
+        # my code  a two pointer approach
         curr=chars[0]
         c=1
         i=0
