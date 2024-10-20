@@ -29,7 +29,7 @@ class Solution:
 
         # my code  a two pointer approach
         curr=chars[0]
-        c=1
+        # c=1
         i=0
         # j=0
         while i<len(chars):
