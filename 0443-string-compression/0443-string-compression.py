@@ -53,30 +53,4 @@ class Solution:
         chars[:] = chars[:i]
         return i
 
-        # # chatgpt
-        # write = 0  # Pointer to write position
-        # read = 0   # Pointer to read position
-        
-        # while read < len(chars):
-        #     curr_char = chars[read]
-        #     count = 0
-            
-        #     # Count occurrences of the current character
-        #     while read < len(chars) and chars[read] == curr_char:
-        #         read += 1
-        #         count += 1
-            
-        #     # Write the character
-        #     chars[write] = curr_char
-        #     write += 1
-            
-        #     # If more than 1 occurrence, write the count
-        #     if count > 1:
-        #         for digit in str(count):
-        #             chars[write] = digit
-        #             write += 1
-        
-        # return write  # New length of the list
-
-        
-
+  
