@@ -28,54 +28,55 @@ class Solution:
         # return len(ans)
 
         # my code 
-        # curr=chars[0]
-        # c=1
-        # i=0
-        # j=0
-        # while i<len(chars):
-        #     j=i+1
-        #     while j<len(chars) and chars[i]==chars[j]:
-        #         j+=1
-        #     c=j-i
-        #     print('before ins',i,j,c)
-        #     if c>1:
-        #         c=str(c)
-        #         for x in c:
-        #             chars[i+1]=x
-        #             i+=1
+        curr=chars[0]
+        c=1
+        i=0
+        j=0
+        while i<len(chars):
+            j=i+1
+            while j<len(chars) and chars[i]==chars[j]:
+                j+=1
+            c=j-i
+            # print('before ins',i,j,c)
+            if c>1:
+                c=str(c)
+                for x in c:
+                    chars[i+1]=x
+                    i+=1
            
-        #     if j==len(chars):
-        #         chars=chars[:i+1]
-        #     else:
-        #         chars=chars[:i+1]+chars[j:]
-        #     print('after ins no',chars,i,j)
-        #     i+=1
-        # return i
+            if j==len(chars):
+                chars[:]=chars[:i+1]
+            else:
+                chars[:]=chars[:i+1]+chars[j:]
+            # print('after ins no',chars,i,j)
+            i+=1
+        chars[:] = chars[:i]
+        return i
 
-        # chatgpt
-        write = 0  # Pointer to write position
-        read = 0   # Pointer to read position
+        # # chatgpt
+        # write = 0  # Pointer to write position
+        # read = 0   # Pointer to read position
         
-        while read < len(chars):
-            curr_char = chars[read]
-            count = 0
+        # while read < len(chars):
+        #     curr_char = chars[read]
+        #     count = 0
             
-            # Count occurrences of the current character
-            while read < len(chars) and chars[read] == curr_char:
-                read += 1
-                count += 1
+        #     # Count occurrences of the current character
+        #     while read < len(chars) and chars[read] == curr_char:
+        #         read += 1
+        #         count += 1
             
-            # Write the character
-            chars[write] = curr_char
-            write += 1
+        #     # Write the character
+        #     chars[write] = curr_char
+        #     write += 1
             
-            # If more than 1 occurrence, write the count
-            if count > 1:
-                for digit in str(count):
-                    chars[write] = digit
-                    write += 1
+        #     # If more than 1 occurrence, write the count
+        #     if count > 1:
+        #         for digit in str(count):
+        #             chars[write] = digit
+        #             write += 1
         
-        return write  # New length of the list
+        # return write  # New length of the list
 
         
 
