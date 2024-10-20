@@ -31,7 +31,7 @@ class Solution:
         curr=chars[0]
         c=1
         i=0
-        j=0
+        # j=0
         while i<len(chars):
             j=i+1
             while j<len(chars) and chars[i]==chars[j]:
