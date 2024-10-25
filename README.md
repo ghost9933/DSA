@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/ghost9933/DSA/tree/master/0018-4sum) |
+| [0073-set-matrix-zeroes](https://github.com/ghost9933/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/ghost9933/DSA/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/ghost9933/DSA/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/ghost9933/DSA/tree/master/0217-contains-duplicate) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/ghost9933/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/ghost9933/DSA/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/ghost9933/DSA/tree/master/0139-word-break) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ghost9933/DSA/tree/master/0166-fraction-to-recurring-decimal) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/ghost9933/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/ghost9933/DSA/tree/master/0079-word-search) |
 ## Math
 |  |
