@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/ghost9933/DSA/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ghost9933/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0086-partition-list](https://github.com/ghost9933/DSA/tree/master/0086-partition-list) |
 | [0161-one-edit-distance](https://github.com/ghost9933/DSA/tree/master/0161-one-edit-distance) |
 | [0443-string-compression](https://github.com/ghost9933/DSA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/ghost9933/DSA/tree/master/0567-permutation-in-string) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ghost9933/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0086-partition-list](https://github.com/ghost9933/DSA/tree/master/0086-partition-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ghost9933/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [1982-remove-duplicates-from-an-unsorted-linked-list](https://github.com/ghost9933/DSA/tree/master/1982-remove-duplicates-from-an-unsorted-linked-list) |
 <!---LeetCode Topics End-->
