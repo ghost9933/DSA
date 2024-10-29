@@ -16,5 +16,4 @@ class Solution:
             p=x
             x.val=x.next.val
             x=x.next
-        x=None 
         p.next=None
