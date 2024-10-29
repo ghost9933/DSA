@@ -37,6 +37,6 @@ class Solution:
             ps.next=None
             return ans1
         ps.next=ans2
-        print(ans1)
-        print(ans2)
+        # print(ans1)
+        # print(ans2)
         return ans1
