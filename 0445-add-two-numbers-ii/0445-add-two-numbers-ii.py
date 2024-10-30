@@ -10,7 +10,7 @@ class Solution:
         def fillStack(s,l):
             x=l
             while x:
-                s.append(x)
+                s.append(x.val)
                 x=x.next 
         fillStack(a,l1)
         fillStack(b,l2)
@@ -20,24 +20,24 @@ class Solution:
             if a and b:
                 x=a.pop()
                 y=b.pop()
-                v=(x.val+y.val+c)%10
-                c=(x.val+y.val+c)//10
+                v=(x+y+c)%10
+                c=(x+y+c)//10
                 ans.val=v
                 p=ListNode()
                 p.next=ans
                 ans=p
             elif a:
                 x=a.pop()
-                v=(x.val+c)%10
-                c=(x.val+c)//10
+                v=(x+c)%10
+                c=(x+c)//10
                 ans.val=v
                 p=ListNode()
                 p.next=ans
                 ans=p
             elif b:
                 x=b.pop()
-                v=(x.val+c)%10
-                c=(x.val+c)//10
+                v=(x+c)%10
+                c=(x+c)//10
                 ans.val=v
                 p=ListNode()
                 p.next=ans
