@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/ghost9933/DSA/tree/master/0002-add-two-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ghost9933/DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0227-basic-calculator-ii](https://github.com/ghost9933/DSA/tree/master/0227-basic-calculator-ii) |
+| [0445-add-two-numbers-ii](https://github.com/ghost9933/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0492-construct-the-rectangle](https://github.com/ghost9933/DSA/tree/master/0492-construct-the-rectangle) |
 | [1119-robot-bounded-in-circle](https://github.com/ghost9933/DSA/tree/master/1119-robot-bounded-in-circle) |
 ## Simulation
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0227-basic-calculator-ii](https://github.com/ghost9933/DSA/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/ghost9933/DSA/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/ghost9933/DSA/tree/master/0445-add-two-numbers-ii) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ghost9933/DSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Bit Manipulation
 |  |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/ghost9933/DSA/tree/master/0086-partition-list) |
 | [0234-palindrome-linked-list](https://github.com/ghost9933/DSA/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ghost9933/DSA/tree/master/0237-delete-node-in-a-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/ghost9933/DSA/tree/master/0445-add-two-numbers-ii) |
 | [1982-remove-duplicates-from-an-unsorted-linked-list](https://github.com/ghost9933/DSA/tree/master/1982-remove-duplicates-from-an-unsorted-linked-list) |
 ## Recursion
 |  |
