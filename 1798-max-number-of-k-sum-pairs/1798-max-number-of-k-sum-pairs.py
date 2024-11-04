@@ -6,7 +6,7 @@ class Solution:
             # print(seen)
             lk=k-x
             if lk in seen  and seen[lk]>=1:
-                print(lk,x)
+                # print(lk,x)
                 seen[lk]-=1
                 ans+=1
             else:
