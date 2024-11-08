@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ghost9933/DSA/tree/master/0014-longest-common-prefix) |
 | [0072-edit-distance](https://github.com/ghost9933/DSA/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/ghost9933/DSA/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/ghost9933/DSA/tree/master/0079-word-search) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ghost9933/DSA/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/ghost9933/DSA/tree/master/0139-word-break) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ghost9933/DSA/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Binary Search
