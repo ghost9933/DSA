@@ -33,9 +33,9 @@ class Codec:
         # id=shortUrl[19:]
         # print('id',id)
         # return self.active[int(id)]
-        print(shortUrl)
+        # print(shortUrl)
         n = int(shortUrl, 16)
-        print(n)
+        # print(n)
         ans = []
         while n >0:
             lastThreeDigits = n % 1000
