@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/ghost9933/DSA/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ghost9933/DSA/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1982-remove-duplicates-from-an-unsorted-linked-list](https://github.com/ghost9933/DSA/tree/master/1982-remove-duplicates-from-an-unsorted-linked-list) |
+| [2186-count-vowel-substrings-of-a-string](https://github.com/ghost9933/DSA/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ghost9933/DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ghost9933/DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ghost9933/DSA/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/ghost9933/DSA/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/ghost9933/DSA/tree/master/0657-robot-return-to-origin) |
 | [1119-robot-bounded-in-circle](https://github.com/ghost9933/DSA/tree/master/1119-robot-bounded-in-circle) |
+| [2186-count-vowel-substrings-of-a-string](https://github.com/ghost9933/DSA/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ghost9933/DSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3024-string-transformation](https://github.com/ghost9933/DSA/tree/master/3024-string-transformation) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ghost9933/DSA/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
