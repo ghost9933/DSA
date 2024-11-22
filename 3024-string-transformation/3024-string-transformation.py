@@ -1,30 +1,30 @@
-# class Solution:
-#     def numberOfWays(self, s: str, t: str, k: int) -> int:
-#         ans=0
-#         n=len(s)
-#         print(1,n-1)
-#         print(s[0:]+s[:0])
-#         print(s[n-1:]+s[:n-1])
-#         def backtrack(inString,steps):
-#             print(inString,steps)
-#             nonlocal ans 
-#             nonlocal n
-#             if steps>k  :
-#                 # or (inString==s and steps>0)
-#                 return
-#             if inString==t and steps<=k:
-#                 print('found')
-#                 ans+=1
+class Solution:
+    def numberOfWays(self, s: str, t: str, k: int) -> int:
+        ans=0
+        n=len(s)
+        print(1,n-1)
+        print(s[0:]+s[:0])
+        print(s[n-1:]+s[:n-1])
+        def backtrack(inString,steps):
+            print(inString,steps)
+            nonlocal ans 
+            nonlocal n
+            if steps>k  :
+                # or (inString==s and steps>0)
+                return
+            if inString==t and steps==k:
+                print('found')
+                ans+=1
              
             
-#             for i in range (1,n-1):
-#                 newString=inString[i:]+inString[:i]
-#                 # if newString==s:
-#                 #     ans+=1
-#                 print(steps,'break  at',i)
-#                 backtrack(inString[i:]+inString[:i],steps+1)
-#         backtrack(s,0)
-#         return  ans 
+            for i in range (1,n-1):
+                newString=inString[i:]+inString[:i]
+                # if newString==s:
+                #     ans+=1
+                print(steps,'break  at',i)
+                backtrack(inString[i:]+inString[:i],steps+1)
+        backtrack(s,0)
+        return  ans 
 
 # class Solution:
 #     def kmp(self, s, t):
@@ -59,6 +59,7 @@ class Solution:
         else:
             zero_targets = 0
         period = ss.find(s, 1)
+        print(period)
         frequency = len(s) // period
         nonzero_targets = frequency - zero_targets
         MOD = 10 ** 9 + 7
