@@ -1,6 +1,6 @@
 class MyHashSet:
 
-    def __init__(self,cap=13):
+    def __init__(self,cap=91):
         self.cap=cap
         self.data=[[] for i in range(self.cap)]
 
