@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/ghost9933/DSA/tree/master/0377-combination-sum-iv) |
 | [0494-target-sum](https://github.com/ghost9933/DSA/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ghost9933/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0816-design-hashset](https://github.com/ghost9933/DSA/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ghost9933/DSA/tree/master/0817-design-hashmap) |
 | [1074-high-five](https://github.com/ghost9933/DSA/tree/master/1074-high-five) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ghost9933/DSA/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/ghost9933/DSA/tree/master/0535-encode-and-decode-tinyurl) |
 | [0560-subarray-sum-equals-k](https://github.com/ghost9933/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/ghost9933/DSA/tree/master/0567-permutation-in-string) |
+| [0816-design-hashset](https://github.com/ghost9933/DSA/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ghost9933/DSA/tree/master/0817-design-hashmap) |
 | [1074-high-five](https://github.com/ghost9933/DSA/tree/master/1074-high-five) |
 | [1270-dinner-plate-stacks](https://github.com/ghost9933/DSA/tree/master/1270-dinner-plate-stacks) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0271-encode-and-decode-strings](https://github.com/ghost9933/DSA/tree/master/0271-encode-and-decode-strings) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ghost9933/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0535-encode-and-decode-tinyurl](https://github.com/ghost9933/DSA/tree/master/0535-encode-and-decode-tinyurl) |
+| [0816-design-hashset](https://github.com/ghost9933/DSA/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ghost9933/DSA/tree/master/0817-design-hashmap) |
 | [1270-dinner-plate-stacks](https://github.com/ghost9933/DSA/tree/master/1270-dinner-plate-stacks) |
 ## Binary Tree
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/ghost9933/DSA/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ghost9933/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/ghost9933/DSA/tree/master/0445-add-two-numbers-ii) |
+| [0816-design-hashset](https://github.com/ghost9933/DSA/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ghost9933/DSA/tree/master/0817-design-hashmap) |
 | [1982-remove-duplicates-from-an-unsorted-linked-list](https://github.com/ghost9933/DSA/tree/master/1982-remove-duplicates-from-an-unsorted-linked-list) |
 ## Recursion
@@ -270,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/ghost9933/DSA/tree/master/0535-encode-and-decode-tinyurl) |
+| [0816-design-hashset](https://github.com/ghost9933/DSA/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ghost9933/DSA/tree/master/0817-design-hashmap) |
 ## String Matching
 |  |
