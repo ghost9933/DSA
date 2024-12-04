@@ -44,7 +44,7 @@ class Solution:
 
     def connect(self, root: 'Optional[Node]') -> 'Optional[Node]':
         self.trav(root,None,None)
-        self.inorder(root)
+        # self.inorder(root)
         return root
 
         
