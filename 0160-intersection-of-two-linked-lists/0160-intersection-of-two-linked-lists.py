@@ -9,18 +9,19 @@ class Solution:
         a=headA
 
         b=headB
-        n=set()
-        while a!=None :
-            if a not in n :
-                n.add(a)
-                a=a.next
-            else :
-                return(a)
-        while b!=None :
-            if b not in n :
-                n.add(b)
-                b=b.next
-            else :
-                return(b)
 
+        while a or b:
+            if a==b and a !=None:
+                return a
+            else :
+                if a:
+                    a=a.next
+                else:
+                    a=headB
+                if b:
+                    b=b.next
+                else:
+                    b=headA
+        return None
+                
             
