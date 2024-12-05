@@ -9,8 +9,8 @@ class Solution:
                 k-=1
             stack.append(char)
         stack = stack[:-k] if k else stack
-        # print(stack)
-        # if len(stack)==0 :
-        #     return '0'
+        print(stack)
+        if len(stack)==0 :
+            return '0'
         return ''.join(stack).lstrip('0') or "0"
         
