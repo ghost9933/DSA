@@ -21,7 +21,7 @@ class Solution:
                 cSum-=nums[oNum]
                 cSum+=nums[i]
                 oNum+=1
-            ans=max(ans,cSum/k)
+                ans=max(ans,cSum/k)
             i+=1
         return ans 
 
