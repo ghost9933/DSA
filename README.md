@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/ghost9933/DSA/tree/master/0377-combination-sum-iv) |
 | [0494-target-sum](https://github.com/ghost9933/DSA/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ghost9933/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/ghost9933/DSA/tree/master/0605-can-place-flowers) |
 | [0816-design-hashset](https://github.com/ghost9933/DSA/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ghost9933/DSA/tree/master/0817-design-hashmap) |
 | [1074-high-five](https://github.com/ghost9933/DSA/tree/master/1074-high-five) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/ghost9933/DSA/tree/master/0402-remove-k-digits) |
+| [0605-can-place-flowers](https://github.com/ghost9933/DSA/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/ghost9933/DSA/tree/master/0680-valid-palindrome-ii) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/ghost9933/DSA/tree/master/3081-minimum-array-length-after-pair-removals) |
 ## Counting
