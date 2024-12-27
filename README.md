@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/ghost9933/DSA/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ghost9933/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/ghost9933/DSA/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/ghost9933/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0816-design-hashset](https://github.com/ghost9933/DSA/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ghost9933/DSA/tree/master/0817-design-hashmap) |
 | [1074-high-five](https://github.com/ghost9933/DSA/tree/master/1074-high-five) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/ghost9933/DSA/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ghost9933/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ghost9933/DSA/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/ghost9933/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ghost9933/DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Tree
 |  |
