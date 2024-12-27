@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0266-palindrome-permutation](https://github.com/ghost9933/DSA/tree/master/0266-palindrome-permutation) |
 | [0271-encode-and-decode-strings](https://github.com/ghost9933/DSA/tree/master/0271-encode-and-decode-strings) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ghost9933/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0345-reverse-vowels-of-a-string](https://github.com/ghost9933/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/ghost9933/DSA/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/ghost9933/DSA/tree/master/0402-remove-k-digits) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ghost9933/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/ghost9933/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0161-one-edit-distance](https://github.com/ghost9933/DSA/tree/master/0161-one-edit-distance) |
 | [0234-palindrome-linked-list](https://github.com/ghost9933/DSA/tree/master/0234-palindrome-linked-list) |
+| [0345-reverse-vowels-of-a-string](https://github.com/ghost9933/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/ghost9933/DSA/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/ghost9933/DSA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/ghost9933/DSA/tree/master/0567-permutation-in-string) |
