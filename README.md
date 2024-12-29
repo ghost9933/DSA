@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/ghost9933/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0816-design-hashset](https://github.com/ghost9933/DSA/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ghost9933/DSA/tree/master/0817-design-hashmap) |
+| [1046-max-consecutive-ones-iii](https://github.com/ghost9933/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1074-high-five](https://github.com/ghost9933/DSA/tree/master/1074-high-five) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ghost9933/DSA/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ghost9933/DSA/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/ghost9933/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/ghost9933/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/ghost9933/DSA/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 ## String
 |  |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0362-design-hit-counter](https://github.com/ghost9933/DSA/tree/master/0362-design-hit-counter) |
+| [1046-max-consecutive-ones-iii](https://github.com/ghost9933/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/ghost9933/DSA/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/ghost9933/DSA/tree/master/3081-minimum-array-length-after-pair-removals) |
 ## Sliding Window
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/ghost9933/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ghost9933/DSA/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/ghost9933/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [1046-max-consecutive-ones-iii](https://github.com/ghost9933/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ghost9933/DSA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ghost9933/DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Tree
