@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ghost9933/DSA/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ghost9933/DSA/tree/master/1777-determine-if-two-strings-are-close) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/ghost9933/DSA/tree/master/2186-count-vowel-substrings-of-a-string) |
+| [2470-removing-stars-from-a-string](https://github.com/ghost9933/DSA/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ghost9933/DSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3024-string-transformation](https://github.com/ghost9933/DSA/tree/master/3024-string-transformation) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ghost9933/DSA/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/ghost9933/DSA/tree/master/0657-robot-return-to-origin) |
 | [1119-robot-bounded-in-circle](https://github.com/ghost9933/DSA/tree/master/1119-robot-bounded-in-circle) |
 | [2428-equal-row-and-column-pairs](https://github.com/ghost9933/DSA/tree/master/2428-equal-row-and-column-pairs) |
+| [2470-removing-stars-from-a-string](https://github.com/ghost9933/DSA/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ghost9933/DSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Two Pointers
 |  |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/ghost9933/DSA/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/ghost9933/DSA/tree/master/0445-add-two-numbers-ii) |
 | [1270-dinner-plate-stacks](https://github.com/ghost9933/DSA/tree/master/1270-dinner-plate-stacks) |
+| [2470-removing-stars-from-a-string](https://github.com/ghost9933/DSA/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ghost9933/DSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Bit Manipulation
 |  |
