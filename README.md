@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/ghost9933/DSA/tree/master/0680-valid-palindrome-ii) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/ghost9933/DSA/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ghost9933/DSA/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/ghost9933/DSA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ghost9933/DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/ghost9933/DSA/tree/master/3081-minimum-array-length-after-pair-removals) |
 ## Sorting
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/ghost9933/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0735-asteroid-collision](https://github.com/ghost9933/DSA/tree/master/0735-asteroid-collision) |
 | [1270-dinner-plate-stacks](https://github.com/ghost9933/DSA/tree/master/1270-dinner-plate-stacks) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/ghost9933/DSA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/ghost9933/DSA/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ghost9933/DSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Bit Manipulation
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/ghost9933/DSA/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ghost9933/DSA/tree/master/0817-design-hashmap) |
 | [1982-remove-duplicates-from-an-unsorted-linked-list](https://github.com/ghost9933/DSA/tree/master/1982-remove-duplicates-from-an-unsorted-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/ghost9933/DSA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
