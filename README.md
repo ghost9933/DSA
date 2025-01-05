@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ghost9933/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ghost9933/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/ghost9933/DSA/tree/master/0437-path-sum-iii) |
+| [0783-search-in-a-binary-search-tree](https://github.com/ghost9933/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/ghost9933/DSA/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ghost9933/DSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/ghost9933/DSA/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ghost9933/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ghost9933/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/ghost9933/DSA/tree/master/0437-path-sum-iii) |
+| [0783-search-in-a-binary-search-tree](https://github.com/ghost9933/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/ghost9933/DSA/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ghost9933/DSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/ghost9933/DSA/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -397,4 +399,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1203-print-in-order](https://github.com/ghost9933/DSA/tree/master/1203-print-in-order) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/ghost9933/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
