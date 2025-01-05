@@ -11,7 +11,7 @@ class Solution:
             for x in rooms[cr]:
                 if x not in seen:
                     q.append(x)
-        print(seen,n)
+        # print(seen,n)
         if len(seen)<n:
             return False
         return True
