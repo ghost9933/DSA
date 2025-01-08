@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/ghost9933/DSA/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1982-remove-duplicates-from-an-unsorted-linked-list](https://github.com/ghost9933/DSA/tree/master/1982-remove-duplicates-from-an-unsorted-linked-list) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/ghost9933/DSA/tree/master/2186-count-vowel-substrings-of-a-string) |
+| [2413-smallest-number-in-infinite-set](https://github.com/ghost9933/DSA/tree/master/2413-smallest-number-in-infinite-set) |
 | [2428-equal-row-and-column-pairs](https://github.com/ghost9933/DSA/tree/master/2428-equal-row-and-column-pairs) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ghost9933/DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ghost9933/DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1074-high-five](https://github.com/ghost9933/DSA/tree/master/1074-high-five) |
 | [1270-dinner-plate-stacks](https://github.com/ghost9933/DSA/tree/master/1270-dinner-plate-stacks) |
+| [2413-smallest-number-in-infinite-set](https://github.com/ghost9933/DSA/tree/master/2413-smallest-number-in-infinite-set) |
 ## Database
 |  |
 | ------- |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/ghost9933/DSA/tree/master/0817-design-hashmap) |
 | [0969-number-of-recent-calls](https://github.com/ghost9933/DSA/tree/master/0969-number-of-recent-calls) |
 | [1270-dinner-plate-stacks](https://github.com/ghost9933/DSA/tree/master/1270-dinner-plate-stacks) |
+| [2413-smallest-number-in-infinite-set](https://github.com/ghost9933/DSA/tree/master/2413-smallest-number-in-infinite-set) |
 ## Binary Tree
 |  |
 | ------- |
@@ -416,4 +419,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/ghost9933/DSA/tree/master/0783-search-in-a-binary-search-tree) |
+## Ordered Set
+|  |
+| ------- |
+| [2413-smallest-number-in-infinite-set](https://github.com/ghost9933/DSA/tree/master/2413-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->
