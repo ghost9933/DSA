@@ -11,7 +11,7 @@ class Solution:
             m=(e-s)//2
             
             res=guess(s+m)
-            print(m,res)
+            # print(m,res)
             if res==0:
                 return s+m
             if res>0:
