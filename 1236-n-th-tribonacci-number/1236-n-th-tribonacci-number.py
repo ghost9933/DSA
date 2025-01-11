@@ -5,14 +5,14 @@ class Solution:
         def find(n):
             
             nonlocal mapF
-            print(n,mapF)
+            # print(n,mapF)
             if n in mapF:
                 return mapF[n]
             else :
                 x=find(n-3)+find(n-2)+find(n-1)
-                print(n,x)
+                # print(n,x)
                 mapF[n]=x
                 return mapF[n]
-        print(mapF)
+        # print(mapF)
         return find(n)
         
