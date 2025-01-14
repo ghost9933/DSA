@@ -10,7 +10,7 @@ class Solution:
                 return
             chars=digitMap[d[0]]
             for x in chars:
-                print(x,d[1:],c+x)
+                # print(x,d[1:],c+x)
                 trav(d[1:],c+x)
         trav(digits,'')
         return ans    
