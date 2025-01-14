@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/ghost9933/DSA/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/ghost9933/DSA/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/ghost9933/DSA/tree/master/0162-find-peak-element) |
+| [0216-combination-sum-iii](https://github.com/ghost9933/DSA/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/ghost9933/DSA/tree/master/0217-contains-duplicate) |
 | [0271-encode-and-decode-strings](https://github.com/ghost9933/DSA/tree/master/0271-encode-and-decode-strings) |
 | [0334-increasing-triplet-subsequence](https://github.com/ghost9933/DSA/tree/master/0334-increasing-triplet-subsequence) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ghost9933/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0079-word-search](https://github.com/ghost9933/DSA/tree/master/0079-word-search) |
+| [0216-combination-sum-iii](https://github.com/ghost9933/DSA/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/ghost9933/DSA/tree/master/0494-target-sum) |
 ## Hash Table
 |  |
