@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/ghost9933/DSA/tree/master/0535-encode-and-decode-tinyurl) |
 | [0816-design-hashset](https://github.com/ghost9933/DSA/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ghost9933/DSA/tree/master/0817-design-hashmap) |
+| [0937-online-stock-span](https://github.com/ghost9933/DSA/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/ghost9933/DSA/tree/master/0969-number-of-recent-calls) |
 | [1270-dinner-plate-stacks](https://github.com/ghost9933/DSA/tree/master/1270-dinner-plate-stacks) |
 | [2413-smallest-number-in-infinite-set](https://github.com/ghost9933/DSA/tree/master/2413-smallest-number-in-infinite-set) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/ghost9933/DSA/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/ghost9933/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0735-asteroid-collision](https://github.com/ghost9933/DSA/tree/master/0735-asteroid-collision) |
+| [0937-online-stock-span](https://github.com/ghost9933/DSA/tree/master/0937-online-stock-span) |
 | [1270-dinner-plate-stacks](https://github.com/ghost9933/DSA/tree/master/1270-dinner-plate-stacks) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/ghost9933/DSA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/ghost9933/DSA/tree/master/2470-removing-stars-from-a-string) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0362-design-hit-counter](https://github.com/ghost9933/DSA/tree/master/0362-design-hit-counter) |
+| [0937-online-stock-span](https://github.com/ghost9933/DSA/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/ghost9933/DSA/tree/master/0969-number-of-recent-calls) |
 ## Greedy
 |  |
@@ -440,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/ghost9933/DSA/tree/master/0402-remove-k-digits) |
+| [0937-online-stock-span](https://github.com/ghost9933/DSA/tree/master/0937-online-stock-span) |
 ## Concurrency
 |  |
 | ------- |
