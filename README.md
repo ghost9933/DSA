@@ -371,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0266-palindrome-permutation](https://github.com/ghost9933/DSA/tree/master/0266-palindrome-permutation) |
 | [0338-counting-bits](https://github.com/ghost9933/DSA/tree/master/0338-counting-bits) |
+| [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/ghost9933/DSA/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 ## Linked List
 |  |
 | ------- |
