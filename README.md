@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/ghost9933/DSA/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/ghost9933/DSA/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/ghost9933/DSA/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/ghost9933/DSA/tree/master/0139-word-break) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ghost9933/DSA/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/ghost9933/DSA/tree/master/0062-unique-paths) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ghost9933/DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0227-basic-calculator-ii](https://github.com/ghost9933/DSA/tree/master/0227-basic-calculator-ii) |
 | [0445-add-two-numbers-ii](https://github.com/ghost9933/DSA/tree/master/0445-add-two-numbers-ii) |
@@ -510,4 +512,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/ghost9933/DSA/tree/master/0374-guess-number-higher-or-lower) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ghost9933/DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
