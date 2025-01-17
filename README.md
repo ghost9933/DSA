@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/ghost9933/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ghost9933/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ghost9933/DSA/tree/master/0166-fraction-to-recurring-decimal) |
+| [0208-implement-trie-prefix-tree](https://github.com/ghost9933/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/ghost9933/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ghost9933/DSA/tree/master/0242-valid-anagram) |
 | [0266-palindrome-permutation](https://github.com/ghost9933/DSA/tree/master/0266-palindrome-permutation) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/ghost9933/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0161-one-edit-distance](https://github.com/ghost9933/DSA/tree/master/0161-one-edit-distance) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ghost9933/DSA/tree/master/0166-fraction-to-recurring-decimal) |
+| [0208-implement-trie-prefix-tree](https://github.com/ghost9933/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0227-basic-calculator-ii](https://github.com/ghost9933/DSA/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/ghost9933/DSA/tree/master/0242-valid-anagram) |
 | [0266-palindrome-permutation](https://github.com/ghost9933/DSA/tree/master/0266-palindrome-permutation) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ghost9933/DSA/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/ghost9933/DSA/tree/master/0139-word-break) |
+| [0208-implement-trie-prefix-tree](https://github.com/ghost9933/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [1397-search-suggestions-system](https://github.com/ghost9933/DSA/tree/master/1397-search-suggestions-system) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ghost9933/DSA/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Binary Search
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ghost9933/DSA/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/ghost9933/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0271-encode-and-decode-strings](https://github.com/ghost9933/DSA/tree/master/0271-encode-and-decode-strings) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ghost9933/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0362-design-hit-counter](https://github.com/ghost9933/DSA/tree/master/0362-design-hit-counter) |
