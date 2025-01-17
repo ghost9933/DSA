@@ -1,31 +1,32 @@
 # Definition for a binary tree node.
 # class TreeNode:
-#     def __init__(self, x):
-#         self.val = x
-#         self.left = None
-#         self.right = None
-
+#     def __init__(self, val=0, left=None, right=None):
+#         self.val = val
+#         self.left = left
+#         self.right = right
 class Solution:
-    def lowestCommonAncestor(self, root: 'TreeNode', p: 'TreeNode', q: 'TreeNode') -> 'TreeNode':
-        ans = None
+    ans=[]
+    def rightSideView(self, root: Optional[TreeNode]) -> List[int]:
+        if root==None:
+            return []
+        queue = [root]
+        ans = []
         
-        def find(root, a, b):
-            nonlocal ans
-            if ans is not None:
-                return 0
+        while queue:
+            level_size = len(queue)
+            level_vals = []
             
-            if root is None:
-                return 0
+            for _ in range(level_size):
+                node = queue.pop(0)
+                level_vals.append(node.val)
+                
+                if node.left:
+                    queue.append(node.left)
+                if node.right:
+                    queue.append(node.right)
             
-            l = find(root.left, a, b)
-            r = find(root.right, a, b)
-            
-            mid = 1 if root.val == a.val or root.val == b.val else 0
-            
-            if l + r + mid >= 2:
-                ans = root
-            
-            return l or r or mid
+            ans.append(level_vals[-1])
         
-        find(root, p, q)
         return ans
+
+
