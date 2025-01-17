@@ -1,18 +1,9 @@
 class Solution:
-    
-    def tribonacci(self, n: int) -> int:
-        mapF=dict({0:0,1:1,2:1})
-        def find(n):
-            
-            nonlocal mapF
-            # print(n,mapF)
-            if n in mapF:
-                return mapF[n]
-            else :
-                x=find(n-3)+find(n-2)+find(n-1)
-                # print(n,x)
-                mapF[n]=x
-                return mapF[n]
-        # print(mapF)
-        return find(n)
-        
+    def minCostClimbingStairs(self, cost: List[int]) -> int:
+        dp=[0]*len(cost)
+        dp[0]=cost[0]
+        dp[1]=cost[1]
+        for i in range(2,len(cost)):
+            dp[i]=min(dp[i-1]+cost[i],dp[i-2]+cost[i])
+        # print(dp)
+        return min(dp[-1],dp[-2])
