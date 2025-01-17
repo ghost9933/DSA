@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/ghost9933/DSA/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/ghost9933/DSA/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/ghost9933/DSA/tree/master/0162-find-peak-element) |
+| [0198-house-robber](https://github.com/ghost9933/DSA/tree/master/0198-house-robber) |
 | [0216-combination-sum-iii](https://github.com/ghost9933/DSA/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/ghost9933/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ghost9933/DSA/tree/master/0238-product-of-array-except-self) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/ghost9933/DSA/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/ghost9933/DSA/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/ghost9933/DSA/tree/master/0139-word-break) |
+| [0198-house-robber](https://github.com/ghost9933/DSA/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/ghost9933/DSA/tree/master/0338-counting-bits) |
 | [0377-combination-sum-iv](https://github.com/ghost9933/DSA/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/ghost9933/DSA/tree/master/0392-is-subsequence) |
