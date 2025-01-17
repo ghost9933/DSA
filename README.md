@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ghost9933/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/ghost9933/DSA/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/ghost9933/DSA/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/ghost9933/DSA/tree/master/0739-daily-temperatures) |
 | [0816-design-hashset](https://github.com/ghost9933/DSA/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ghost9933/DSA/tree/master/0817-design-hashmap) |
 | [1046-max-consecutive-ones-iii](https://github.com/ghost9933/DSA/tree/master/1046-max-consecutive-ones-iii) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/ghost9933/DSA/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/ghost9933/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0735-asteroid-collision](https://github.com/ghost9933/DSA/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/ghost9933/DSA/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/ghost9933/DSA/tree/master/0937-online-stock-span) |
 | [1270-dinner-plate-stacks](https://github.com/ghost9933/DSA/tree/master/1270-dinner-plate-stacks) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/ghost9933/DSA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/ghost9933/DSA/tree/master/0402-remove-k-digits) |
+| [0739-daily-temperatures](https://github.com/ghost9933/DSA/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/ghost9933/DSA/tree/master/0937-online-stock-span) |
 ## Concurrency
 |  |
