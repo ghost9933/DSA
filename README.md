@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/ghost9933/DSA/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/ghost9933/DSA/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/ghost9933/DSA/tree/master/0139-word-break) |
+| [0151-reverse-words-in-a-string](https://github.com/ghost9933/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0161-one-edit-distance](https://github.com/ghost9933/DSA/tree/master/0161-one-edit-distance) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ghost9933/DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0227-basic-calculator-ii](https://github.com/ghost9933/DSA/tree/master/0227-basic-calculator-ii) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ghost9933/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0086-partition-list](https://github.com/ghost9933/DSA/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/ghost9933/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0151-reverse-words-in-a-string](https://github.com/ghost9933/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ghost9933/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0161-one-edit-distance](https://github.com/ghost9933/DSA/tree/master/0161-one-edit-distance) |
 | [0234-palindrome-linked-list](https://github.com/ghost9933/DSA/tree/master/0234-palindrome-linked-list) |
